@@ -4,26 +4,11 @@ Jan Saarthi is an AI-powered multilingual mobile + web platform built to bridge 
 
 ## 🌐 Live Project Links 
 
-- 📱 **YouTube Demo**: [Watch Now]https://youtu.be/sa31zNK7wcw
 - 📱 **App Download Link**= (https://drive.google.com/file/d/1SBcbyZDuNCqHPtlTvJcYPb9NznmHiiXk/view?usp=sharing)
 - 📱 **Web Portal github repo=**= https://github.com/NipunGoel02/adminpanel_sprint
 
-
-![Untitled design (5)](https://github.com/user-attachments/assets/91a294e2-9626-47c9-9e2d-402861608a39)
-
-![Screenshot 2025-04-19 233237](https://github.com/user-attachments/assets/3daa8c4c-0beb-4e82-aa0c-7915ff927ced)
-
-
--
-
 ---
 
-## 👥 Team CodeVision
-
-- 🧑‍💼 **Prashant Kumar** – Team Leader, Flutter App Developer  
-- 💻 **Harshit Singh** – Flutter & Firebase Integration  
-- 🌐 **Nipun Goel** – Web Portal Developer & Backend Logic  
-- 💡 **Harshit Jain** – Web Portal & Business Strategist
 -  🌐 **Web Portal**: [Visit Admin Panel](https://admin-panel-qbdp.onrender.com/)
 - 💻 **GitHub Repo**: [Jan Saarthi Repository](https://github.com/Prashantkumar957/Jan_Saarthi)
 
@@ -89,18 +74,6 @@ We are using AI to:
 
 ---
 
-## 📸 Screenshots
-
-_(Add relevant UI screenshots of both app and web portal here)_
-
----
-
-## 🛡️ License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -111,8 +84,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 For any queries or demo requests:
 
-- 📧 Email: [prashantkumar.official957@gmail.com](mailto:prashantkumar.official957@gmail.com)
-- 🌐 GitHub: [@Prashantkumar957](https://github.com/Prashantkumar957)
+- 📧 Email: [harshitsingh162004@gmail.com](mailto:harshitsingh162004@gmail.com)
+- 🌐 GitHub: [@harshitsingh162004](https://github.com/harshitsingh162004)
 
 ---
 
