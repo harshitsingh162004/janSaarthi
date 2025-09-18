@@ -10,7 +10,7 @@ Jan Saarthi is an AI-powered multilingual mobile + web platform built to bridge 
 ---
 
 -  🌐 **Web Portal**: [Visit Admin Panel](https://admin-panel-qbdp.onrender.com/)
-- 💻 **GitHub Repo**: [Jan Saarthi Repository](https://github.com/Prashantkumar957/Jan_Saarthi)
+- 💻 **GitHub Repo**: [Jan Saarthi Repository](https://github.com/harshitsingh162004/janSaarthi)
 
 ---
 
